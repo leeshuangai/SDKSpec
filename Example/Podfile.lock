@@ -1,0 +1,16 @@
+PODS:
+  - HYComponent (0.1.0)
+
+DEPENDENCIES:
+  - HYComponent (from `../`)
+
+EXTERNAL SOURCES:
+  HYComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HYComponent: 93667c8a732837e196533e0473ef0be12bccb6d8
+
+PODFILE CHECKSUM: c92e2eb1cbdb28976189772aeed04d57eb778e8c
+
+COCOAPODS: 1.5.3

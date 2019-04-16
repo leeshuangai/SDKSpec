@@ -1,0 +1,22 @@
+{
+  "name": "HYComponent",
+  "version": "0.1.0",
+  "summary": "A short description of HYComponent.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/leeshuangai/HYComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "leeshuangai": "lishuang@51xl.com"
+  },
+  "source": {
+    "git": "https://github.com/leeshuangai/HYComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HYComponent/Classes/**/*"
+}
